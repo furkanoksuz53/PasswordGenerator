@@ -1,0 +1,17 @@
+C:\Users\furkano\source\repos\C#Course\PassGenerator\PassGenerator\bin\Debug\net7.0-windows\PassGenerator.exe
+C:\Users\furkano\source\repos\C#Course\PassGenerator\PassGenerator\bin\Debug\net7.0-windows\PassGenerator.deps.json
+C:\Users\furkano\source\repos\C#Course\PassGenerator\PassGenerator\bin\Debug\net7.0-windows\PassGenerator.runtimeconfig.json
+C:\Users\furkano\source\repos\C#Course\PassGenerator\PassGenerator\bin\Debug\net7.0-windows\PassGenerator.dll
+C:\Users\furkano\source\repos\C#Course\PassGenerator\PassGenerator\bin\Debug\net7.0-windows\PassGenerator.pdb
+C:\Users\furkano\source\repos\C#Course\PassGenerator\PassGenerator\obj\Debug\net7.0-windows\PassGenerator.csproj.AssemblyReference.cache
+C:\Users\furkano\source\repos\C#Course\PassGenerator\PassGenerator\obj\Debug\net7.0-windows\PassGenerator.Form1.resources
+C:\Users\furkano\source\repos\C#Course\PassGenerator\PassGenerator\obj\Debug\net7.0-windows\PassGenerator.csproj.GenerateResource.cache
+C:\Users\furkano\source\repos\C#Course\PassGenerator\PassGenerator\obj\Debug\net7.0-windows\PassGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furkano\source\repos\C#Course\PassGenerator\PassGenerator\obj\Debug\net7.0-windows\PassGenerator.AssemblyInfoInputs.cache
+C:\Users\furkano\source\repos\C#Course\PassGenerator\PassGenerator\obj\Debug\net7.0-windows\PassGenerator.AssemblyInfo.cs
+C:\Users\furkano\source\repos\C#Course\PassGenerator\PassGenerator\obj\Debug\net7.0-windows\PassGenerator.csproj.CoreCompileInputs.cache
+C:\Users\furkano\source\repos\C#Course\PassGenerator\PassGenerator\obj\Debug\net7.0-windows\PassGenerator.dll
+C:\Users\furkano\source\repos\C#Course\PassGenerator\PassGenerator\obj\Debug\net7.0-windows\refint\PassGenerator.dll
+C:\Users\furkano\source\repos\C#Course\PassGenerator\PassGenerator\obj\Debug\net7.0-windows\PassGenerator.pdb
+C:\Users\furkano\source\repos\C#Course\PassGenerator\PassGenerator\obj\Debug\net7.0-windows\PassGenerator.genruntimeconfig.cache
+C:\Users\furkano\source\repos\C#Course\PassGenerator\PassGenerator\obj\Debug\net7.0-windows\ref\PassGenerator.dll
